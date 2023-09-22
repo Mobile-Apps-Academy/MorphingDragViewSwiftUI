@@ -84,7 +84,7 @@ A morphing effect when a shape is draged from its position, Developed using Swif
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Mobile-Apps-Academy/OpenFasionEcommerceSwiftUIApp.git
+   git clone https://github.com/Mobile-Apps-Academy/MorphingDragViewSwiftUI.git
    ```
 2. Usage
     
